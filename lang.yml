@@ -1198,10 +1198,10 @@ SHOP_SELL_NO_ITEMS: §6§lМагазин §8| §7У вас §cнет §7необ
 SHOP_HOVER_TEST: §7Нажмите сюда, §7чтобы открыть этот магазин
 SHOP_FORMAT_NO_ARGS: /shop <название магазина>
 NO_PERMS_GROUP: §e§lCERES§6§lMINE §8| §7Данная возможность доступна от привилегии %s
-PROFILE_BACK_ITEM_NAME: §cВернуться назад
+PROFILE_BACK_ITEM_NAME: '§cВернуться назад'
 PROFILE_BACK_ITEM_LORE2:
 - ''
-- §7Нажмите, чтобы вернуться на шаг назад
+- '§7Нажмите, чтобы вернуться на шаг назад'
 SHOP_LORE_ITEM:
 - ''
 - '§7Цена покупки: §a%s'
@@ -2257,7 +2257,7 @@ AUCTION_TYPE_RESOURCES_NAME: Ресурсы
 AUCTION_TYPE_FARMING_NAME: Растения
 AUCTION_TYPE_OTHER_NAME: Остальное
 AUCTION_TYPE_ALL_NAME: Все
-AUCTION_NO_ITEMS_NAME: Ничего не найдено
+AUCTION_NO_ITEMS_NAME: 'Ничего не найдено'
 AUCTION_CATEGORY_NAME: Текующая категория предметов
 AUCTION_MYGUI_ITEM_NAME: §aМои товары
 AUCTION_MYGUI_ITEM_LORE:
@@ -2274,8 +2274,8 @@ AUCTION_CATEGORY_LORE:
 - §e▸ Нажмите, чтобы сменить категорию
 AUCTION_NO_ITEMS_LORE:
 - ''
-- §7Кажется, я ничего не нашел,
-- §7или предметы отсутствуют
+- '§7Кажется, я ничего не нашел,'
+- '§7или предметы отсутствуют'
 AUCTION_REMOVED_ITEM: §6§lАукцион §8| §7Вы успешно сняли свой лот с аукциона
 AUCTION_LORE_MYGUI:
 - ''
