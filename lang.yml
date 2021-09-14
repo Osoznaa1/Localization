@@ -1287,7 +1287,7 @@ SKYBLOCK_SHOP_LOOT: Магазин различных предметов
 SKYBLOCK_SHOP_CUSTOM: Магазин редких предметов
 
 #SURVIVAL
-SURVIVAL_BOARD_NAME: ' §e§lCERES§6§lMINE §8» §e§lВыживание '
+SURVIVAL_BOARD_NAME: ' §e§lCERES§6§lMINE §8» §6§lГриф '
 SURVIVAL_BOARD_DATE_LINE: '    §7'
 SURVIVAL_BOARD_GROUP_LINE: ' Группа: '
 SURVIVAL_BOARD_PROFILE_LINE: ' §6§lПрофиль:'
