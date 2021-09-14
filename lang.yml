@@ -1317,7 +1317,7 @@ ONEBLOCK_MENU_ITEM_LORE:
 - ' §7ознакомиться с режимом'
 
 SURVIVAL_JOIN_TITLE: '§6§l◀ §e§lCERES§6§lMINE §6§l▶'
-SURVIVAL_JOIN_SUBTITLE: '§7Добро пожаловать на §e§lвыживание'
+SURVIVAL_JOIN_SUBTITLE: '§7Добро пожаловать на §6§lГриф'
 
 HOLOGRAM_KILLS_TOP_LINES:
 - '§8§l« §a§lТоп по убийствам §8§l»'
