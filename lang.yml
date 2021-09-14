@@ -1581,8 +1581,8 @@ BOXES_GOLD_LORE:
 - '§8  ▪ §e10000 §7золота'
 - ''
 - '§a▸ §a§lПокупка §7на сайте §6ceresmine.ru'
-BOXES_SURVIVAL_SOULS_NAME: '§c§lКейс с духами'
-BOXES_SURVIVAL_SOULS_LORE:
+BOXES_SOULS_NAME: '§c§lКейс с духами'
+BOXES_SOULS_LORE:
 - ''
 - ' §7Испытайте свою удачу'
 - ' §7Выиграйте нужного духа дешевле'
